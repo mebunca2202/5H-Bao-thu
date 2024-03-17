@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\banhang\\banhang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\frmThongTinDonHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\frmThongTinDonHang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\nhacungcap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\sanpham.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\quanly\\sanpham.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Resources\\main.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Resources\\main.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\TaiKhoan\\DoiMk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\TaiKhoan\\DoiMk.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\TaiKhoan\\DoiMk.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\DangKy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\DangKy.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\DangKy.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Dangnhap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Dangnhap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\main1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\main1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\main2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\main2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\QuanLySieuThi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\QuanLySieuThi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\QuanLySieuThi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\QuanLySieuThi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\XuatExecl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySieuThi\\XuatExecl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:48.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:42.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:34.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmThongTinDonHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\frmThongTinDonHang.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\frmThongTinDonHang.Designer.cs",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:24.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banhang.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYBAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:02:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "banhang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\banhang.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\banhang.Designer.cs",
+              "ViewState": "AQIAAG4CAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:03:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nhacungcap.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:24.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "nhacungcap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\nhacungcap.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\nhacungcap.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sanpham.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:21.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sanpham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "ViewState": "AQIAAE8CAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmThongTinDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:13.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.png - PNG [997x608, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Resources\\main.png",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Resources\\main.png",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Resources\\main.png - PNG [997x608, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLySieuThi\\Resources\\main.png - PNG [997x608, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-17T03:08:10.715Z",
+              "EditorCaption": " - PNG [997x608, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoiMk.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:08:00.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoiMk.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\DoiMk.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\DoiMk.Designer.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.Designer.cs",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:48.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\App.config",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\App.config",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\App.config",
+              "RelativeToolTip": "QuanLySieuThi\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-17T03:07:45.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "chuoiketnoi.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\chuoiketnoi.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\chuoiketnoi.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\chuoiketnoi.cs",
+              "RelativeToolTip": "QuanLySieuThi\\chuoiketnoi.cs",
+              "ViewState": "AQIAACgBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:35.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\DangKy.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.cs",
+              "RelativeToolTip": "QuanLySieuThi\\DangKy.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:30.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DangKy.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\DangKy.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\DangKy.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:27.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dangnhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:07:14.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "main1.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main1.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.cs",
+              "RelativeToolTip": "QuanLySieuThi\\main1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:06:13.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "main1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main1.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\main1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:06:10.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Program.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Program.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:03:40.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "main2.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main2.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.cs",
+              "RelativeToolTip": "QuanLySieuThi\\main2.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:03:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "main2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main2.Designer.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\main2.Designer.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:03:30.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuanLySieuThi.csproj.user",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\QuanLySieuThi.csproj.user",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\QuanLySieuThi.csproj.user",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\QuanLySieuThi.csproj.user",
+              "RelativeToolTip": "QuanLySieuThi\\QuanLySieuThi.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-03-17T03:03:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QuanLySieuThi.csproj",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\QuanLySieuThi.csproj",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\QuanLySieuThi.csproj",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\QuanLySieuThi.csproj",
+              "RelativeToolTip": "QuanLySieuThi\\QuanLySieuThi.csproj",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T03:03:20.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "XuatExecl.cs",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\XuatExecl.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\XuatExecl.cs",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\XuatExecl.cs",
+              "RelativeToolTip": "QuanLySieuThi\\XuatExecl.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:03:15.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Settings.settings",
+              "RelativeToolTip": "QuanLySieuThi\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-03-17T03:08:52.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Properties\\Resources.resx",
+              "RelativeToolTip": "QuanLySieuThi\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:08:46.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sanpham.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.resx",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:08:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoiMk.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\DoiMk.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.resx",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\DoiMk.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:07:56.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DangKy.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\DangKy.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.resx",
+              "RelativeToolTip": "QuanLySieuThi\\DangKy.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:07:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dangnhap.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.resx",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:07:11.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "main2.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main2.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main2.resx",
+              "RelativeToolTip": "QuanLySieuThi\\main2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:03:37.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "main1.resx",
+              "DocumentMoniker": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.resx",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main1.resx",
+              "ToolTip": "C:\\Users\\HEPXT 3077312\\Desktop\\QuanLySieuThi-main\\QuanLySieuThi\\main1.resx",
+              "RelativeToolTip": "QuanLySieuThi\\main1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-17T03:03:31.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
